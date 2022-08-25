@@ -1,2 +1,2 @@
-# pendle-v2-resources
+# Pendle V2 Resources
 Resources related to Pendle V2
